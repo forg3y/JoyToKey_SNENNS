@@ -4,7 +4,7 @@ Config Files to turn an SNES controller into a Mouse, with one handed functional
 
 ## Getting Started
 
-All you'll need to do is head over to * [JoyToKey](https://joytokey.net/en/download) and download the latest build of JoyToKey, then unzip. Download the config files above and ensure everything is in the same folder. That should be it! You should be able to plug in any USB SNES controller and can use it as a mouse. 
+All you'll need to do is head over to [JoyToKey](https://joytokey.net/en/download) and download the latest build of JoyToKey, then unzip. Download the config files above and ensure everything is in the same folder. That should be it! You should be able to plug in any USB SNES controller and can use it as a mouse. 
 
 ## Config File Usage
 The way this works is by profile swapping.
