@@ -1,4 +1,4 @@
-# Project Title
+# SNENNS Controller (Super Nintendo Entertainment Newport News Shipyard Controller)
 
 Config Files to turn an SNES controller into a Mouse, with one handed functionality. This was created for a Hackathon (RamHacks 2018) by me, Trevor LeForge (forg3y) for the Newport News Shipyard challenge, in which they were unable to use their touch screen computers due to their bulky gloves preventing them from using their fingers. One handed mode was for the use case in which the ship builder is using a hand to hold something (say wires) and they still need to use the controller to look at the instructions on what they're building at the moment. 
 
